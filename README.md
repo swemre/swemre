@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+....
+
+### Notice
+
+Please be aware that documents you download or applications you use may have tracking software or pixel tracking for analytics purposes. If you are concerned about your privacy, contact emre@swemre.com.
+
 <!--
 **swemre/swemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
